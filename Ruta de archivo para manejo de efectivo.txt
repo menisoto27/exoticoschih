@@ -1,0 +1,3 @@
+Ruta de archivo para manejo de efectivo.
+
+exoticos-chihuahua\wp-content\plugins\woocommerce-point-of-sale\includes\views\modal\html-modal-cash-management.php

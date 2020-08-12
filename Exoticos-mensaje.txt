@@ -1,0 +1,37 @@
+1. Esta en wordpress
+2. El directorio es publico
+3. Ya viene la base de datos con su direccion en wp_options como exoticos-chihuahua.net
+4. Lo que necesito es lo siguiente:
+La pagina integrar un punto de venta que se puede configurar, cuando el usuario entra como cajero
+en una registradora, tiene la opcion de manejar un fondo de entrada y la salida de efectivo(corte),
+primeramente antes de cerrar la caja tiene que ir a manejo de efectivo, y dar en retirar efectivo.
+
+En esa parte se observa y te muestra lo que hay en caja de efectivo actualmente, solo efectivo.
+Cuando le das clic en retirar efectivo te dice que agreges una nota y el monto a retirar, aqui surge
+el problema ya que si el usuario se equivoque de todos modos se agrega.
+
+¿Que necesito?
+Que cuando le de clic en retirar efectivo, si el monto es menor o mayor a lo que hay en caja
+mande el mensaje, "El valor ingresado es menor o mayor, verifiquelo nuevamente".
+Que no permita ingresar un importe que no es. 
+
+Pero si el usuario lo agrega correctamente, te mande mensaje "Se agrego correctamente" y listo.
+Esto se supone es para que el usuario no la cague.
+
+---------------------------------------------------
+Usuario cajero:
+gerardo
+Password cajero:
+gerardo
+
+usuario admin:
+admin
+password admin:
+271091
+
+Link para entrar al sistema pos:
+/wp-admin
+
+La ruta para editar lo retirar efectivo aqui te la dejo:
+
+
